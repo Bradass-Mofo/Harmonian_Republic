@@ -3,7 +3,7 @@
 
 "name":"Harmonian Republic", 
 
-"version":"So early it doesn't exist yet",
+"version":"0.0.0",
 
 "description":"The Empress is dead! Long live the Republic!", 
 
@@ -11,7 +11,7 @@
 
 "author":"Bradass_Mofo", # author's name
 
-"jars":["jars/example.jar"], # mod jars
+"jars":["jars/Kadur_Remnant.jar"], # placeholder
 
 "modplugin":"data.scripts.ModPlugin", # mod java classes
 
