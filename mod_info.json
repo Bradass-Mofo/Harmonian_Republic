@@ -11,9 +11,7 @@
 
 "author":"Bradass_Mofo", # author's name
 
-"jars":["jars/Kadur_Remnant.jar"], # placeholder
 
-"modplugin":"data.scripts.ModPlugin", # mod java classes
 
 
 }
